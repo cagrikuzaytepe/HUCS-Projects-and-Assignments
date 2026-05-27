@@ -1,6 +1,6 @@
 # University Lab Assignments — Hacettepe University
 
-Course assignments from the 4th year of the Computer Engineering (BBM) and Artificial Intelligence Engineering (AIN) programs at Hacettepe University, 2024–2025.
+Course assignments from the 3rd and 4th year of the Computer Engineering (BBM) program at Hacettepe University, 2024–2025.
 
 ---
 
